@@ -1,0 +1,3 @@
+- 👋 Hi, I'm a student whose hobby is programming :)
+- 👀 I’m interested in typescript!
+- 📫 How to reach me [mivpt/issues](https://github.com/mivpt/mivpt/issues).
